@@ -1,0 +1,3 @@
+cbrkit[nlp,transformers]==0.28.5
+argparse
+numpy
